@@ -25,7 +25,7 @@ SECRET_KEY = 'dh)m$rf)%qu#%pvyo=7b8gipl6p$i%v6l=_-mxoja$ylc!4rny'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["project-1-starter-code-ferrovax-jakeyukich869056.codeanyapp.com"]
 
 
 # Application definition
