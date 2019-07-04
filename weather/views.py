@@ -7,8 +7,8 @@ def forecast(request):
 def forecast_alert(request):
     return render(request, 'weather/forecast-alert.html')
 
-def comparison(request):
-    return render(request, 'weather/comparison.html')
+def forecast2(request):
+    return render(request, 'weather/forecast2.html')
 
 def comparison_alert(request):
     return render(request, 'weather/comparison-alert.html')
